@@ -114,13 +114,3 @@ input[type='submit']:hover {
 #register-container p {
   margin-bottom: 10px;
 }
-
-@media (min-width: 320px) {
-  body {
-    max-width: 450px;
-  }
-  #login-container {
-    width: 350px;
-    margin: 2vh 1vh 2vh;
-  }
-}
